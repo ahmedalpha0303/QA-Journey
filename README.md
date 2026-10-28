@@ -1,38 +1,18 @@
-# QA Journey | Software Testing Portfolio
+# QA Journey 2027
 
-Welcome to my QA Journey repository. This repository documents my learning progress, practical exercises, and projects in Software Quality Assurance and Software Testing.
+লক্ষ্য: ২০২৭ সালে বাংলাদেশের আইটি কোম্পানিতে Junior QA Engineer হওয়া।
+শুরু: ৩১ অক্টোবর ২০২৬ · দৈনিক ২–৩ ঘণ্টা
 
-## Learning Goals
-- Manual Testing fundamentals
-- Test case design and test scenarios
-- Bug reporting and defect lifecycle
-- SDLC and STLC
-- API Testing using Postman
-- SQL fundamentals for testing
-- Automation Testing using Selenium
-- Git and GitHub
+## প্রগ্রেস
+| সপ্তাহ | বিষয় | অবস্থা |
+|---|---|---|
+| ১ | টেস্টিং-এর ভিত্তি | চলছে |
+| ২ | টেস্ট ডিজাইন | বাকি |
 
-## Repository Structure
-- manual-testing/ — Test cases and test scenarios
-- bug-reports/ — Sample bug reports
-- api-testing/ — API testing practice
-- sql-practice/ — SQL exercises
-- automation-testing/ — Automation practice projects
-- learning-notes/ — Study notes and summaries
+## দৈনিক লগ
 
-## Progress Tracker
-- [ ] Manual Testing fundamentals
-- [ ] Test case writing
-- [ ] Bug reporting
-- [ ] API Testing
-- [ ] SQL for QA
-- [ ] Selenium Automation
-- [ ] Portfolio-ready testing project
-
-## About Me
-I am an aspiring QA Engineer building practical skills through consistent learning and hands-on projects.
-
-This repository will be updated as I progress in my QA journey.
-
-## Disclaimer
-All sample projects and reports are created for learning and demonstration purposes.
+### Day 1
+- যা করলাম: VS Code, Node.js, Git, Postman ইনস্টল করলাম। qa-journey repo খুললাম।
+- যা শিখলাম: Git-এ add, commit, push-এর পার্থক্য।
+- যেখানে আটকেছিলাম: git config-এ ইমেইল দিতে ভুলে গিয়েছিলাম।
+- কাল করব: testing-এর সাতটা principle পড়ব।
