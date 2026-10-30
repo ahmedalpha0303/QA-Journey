@@ -16,3 +16,9 @@
 - যা শিখলাম: Git-এ add, commit, push-এর পার্থক্য।
 - যেখানে আটকেছিলাম: git config-এ ইমেইল দিতে ভুলে গিয়েছিলাম।
 - কাল করব: testing-এর সাতটা principle পড়ব।
+
+### Day 2
+- যা করলাম: Testing-এর মূল ধারণা ও ৭টা principle পড়ে নোট লিখলাম।
+- যা শিখলাম: Error → Defect → Failure। Verification মানে ঠিকভাবে বানানো, validation মানে ঠিক জিনিস বানানো।
+- যেখানে আটকেছিলাম: verification.
+- কাল করব: SDLC ও STLC পড়ব, STLC-এর ডায়াগ্রাম আঁকব।
