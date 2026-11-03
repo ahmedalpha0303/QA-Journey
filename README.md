@@ -22,3 +22,9 @@
 - যা শিখলাম: Error → Defect → Failure। Verification মানে ঠিকভাবে বানানো, validation মানে ঠিক জিনিস বানানো।
 - যেখানে আটকেছিলাম: verification.
 - কাল করব: SDLC ও STLC পড়ব, STLC-এর ডায়াগ্রাম আঁকব।
+
+### Day 3
+- যা করলাম: SDLC মডেল ও STLC-এর ৬ ধাপ পড়ে ডায়াগ্রামসহ নোট লিখলাম।
+- যা শিখলাম: STLC-এর প্রতি ধাপে টেস্টারের আলাদা output থাকে। V-model-এ টেস্ট পরিকল্পনা কোডিংয়ের আগেই শুরু হয়।
+- যেখানে আটকেছিলাম: SDLC,STLC
+- কাল করব: Agile ও Scrum পড়ব, একটা user story ও acceptance criteria লিখব।
